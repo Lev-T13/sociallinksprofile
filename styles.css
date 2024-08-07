@@ -3,7 +3,7 @@
         width: 90%;
     }
 }
-
+* {-webkit-font-smoothing: antialiased;}
 body{
     background-color: hsl(0, 0%, 8%);
     height: 100vh;
